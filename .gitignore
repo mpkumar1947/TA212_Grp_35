@@ -1,0 +1,23 @@
+# Autodesk Inventor temporary files
+*.bak
+*.old
+*.log
+*.tmp
+
+# Autodesk Inventor backup folders
+OldVersions/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Cache / build files
+*.cache
+*.out
+
+# Autodesk project temp
+Design Data/Cache/
+Design Data/Temp/
+
+# Pack and Go logs
+packngo.log
